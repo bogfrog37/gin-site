@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+h1 {
+  text-align: center;
+  color: #a30554 ;
+}
+h2 {
+  text-align: center;
+  color: #a30554 ;
+}
+h3 {
+  text-align: center;
+  color: #a30554 ;
+}
+body {
+    background-color: #cef5da;
+    color: #91034a ;
+    text-align: center;
+  }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
