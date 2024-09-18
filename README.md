@@ -1,1 +1,1 @@
-i made a little website :-)
+i made a little website
